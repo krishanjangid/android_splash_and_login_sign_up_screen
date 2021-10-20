@@ -1,0 +1,9 @@
+com/krishan/firstapp/BuildConfig.java
+ com.krishan.firstapp.BuildConfig
+com/krishan/firstapp/Dashboard.java
+ com.krishan.firstapp.Dashboard
+com/krishan/firstapp/Login.java
+ com.krishan.firstapp.Login
+com/krishan/firstapp/MainActivity.java
+ com.krishan.firstapp.MainActivity
+ com.krishan.firstapp.MainActivity$1
